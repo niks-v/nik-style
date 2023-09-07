@@ -1,4 +1,4 @@
 # nik-style
 My custom styling kit.
 
-## Lightweight - Simple - Effective
+## Lightweight - Simple - Effective - WIP
