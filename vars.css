@@ -1,0 +1,10 @@
+:root {
+    --main-color: #f0395b;
+    --dark-color: #111645;
+    --light-color: #F9FBFF;
+    --primary-font: 'Arial';
+    --secondary-font: 'Verdana';
+    
+    /*color that is used on top of main color*/
+    --color-on-main: #f9fbff;
+}

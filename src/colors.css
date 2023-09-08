@@ -1,0 +1,9 @@
+.color-light {color: var(--light-color);}
+.color-dark {color: var(--dark-color);}
+.color-main {color: var(--main-color);}
+
+.bg-light {background-color: var(--light-color); color: var(--dark-color);}
+.bg-dark {background-color: var(--dark-color); color: var(--light-color);}
+.bg-main {background-color: var(--main-color); color: var(--color-on-main);}
+
+.grayscale {filter: grayscale(100%);}

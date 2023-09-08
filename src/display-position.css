@@ -1,0 +1,35 @@
+.p-absolute {position: absolute;}
+.p-relative {position: relative;}
+.p-fixed {position: fixed;}
+.p-sticky {position: sticky;}
+
+.d-flex {display: flex;}
+.d-none {display: none;}
+.d-block {display: block;}
+.d-inline {display: inline;}
+.d-inline-block {display: inline-block;}
+
+.flex-1 {flex:1;}
+.flex-11 {flex: 1 1;}
+.flex-2 {flex:2;}
+.flex-3 {flex:3;}
+.flex-4 {flex:4;}
+.flex-5 {flex:5;}
+.flex-6 {flex:6;}
+.flex-7 {flex:7;}
+.flex-8 {flex:8;}
+.flex-9 {flex:9;}
+.flex-025 {flex:0.25;}
+.flex-05 {flex:0.5;}
+.flex-075 {flex:0.75;}
+
+.justify-center {justify-content: center; text-align: center;}
+.justify-left {justify-content: left; text-align: left;}
+.justify-right {justify-content: right; text-align: right;}
+.space-between {justify-content: space-between;}
+.space-around {justify-content: space-around;}
+
+.align-center {align-items: center;}
+.align-bottom {align-items: bottom;}
+
+.center {margin: auto;}
